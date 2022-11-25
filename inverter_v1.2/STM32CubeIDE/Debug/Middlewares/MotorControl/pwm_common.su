@@ -1,0 +1,2 @@
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/Inverter_v1.2_motor/inverter_v1.2/MCSDK_v5.4.5/MotorControl/MCSDK/MCLib/Any/Src/pwm_common.c:76:13:startTimers	8	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/Inverter_v1.2_motor/inverter_v1.2/MCSDK_v5.4.5/MotorControl/MCSDK/MCLib/Any/Src/pwm_common.c:108:13:waitForPolarizationEnd	16	static
